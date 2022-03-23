@@ -1,6 +1,7 @@
-.cart-style{
+.cart{
     position: sticky;
     top: 0;
+    text-align: center;
     color: darkslategrey;
     padding: 20px;
     text-shadow: 1px 2px 5px sandybrown;
