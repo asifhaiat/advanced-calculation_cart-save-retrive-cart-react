@@ -1,0 +1,19 @@
+.shop-container{
+    display: grid;
+    grid-template-columns: 4fr 1fr;
+}
+.product-container{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 45px;
+    margin: 100px 50px;
+}
+.order-container{
+    margin: 100px 50px;
+    margin-left: 10px;
+    text-align: center;
+    height: 490px;
+    border: 1px solid goldenrod;
+    border-radius: 8px;
+    position: relative;
+}
